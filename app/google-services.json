@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "903821619238",
+    "firebase_url": "https://collabov2.firebaseio.com",
+    "project_id": "collabov2",
+    "storage_bucket": "collabov2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903821619238:android:1d42ac05cd7374ac",
+        "android_client_info": {
+          "package_name": "com.example.roslyn.collabov2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903821619238-k9vcsr6hj8tj05na6mluvvm74f53narj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfu2SY5j2HOzej4uiicNO8BgYEtYh_0gM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
